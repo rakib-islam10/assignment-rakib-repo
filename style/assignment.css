@@ -1,0 +1,386 @@
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+
+#navdiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+#btn1{
+    border-radius: 1px solid #006A50;
+    padding: 5PX;
+}
+/* .banner-container */
+.banner-container{
+    display: flex;
+    height: 250px;
+    margin-left:20px ;
+    margin-right: 20px;
+    background-color: #C6E4D6;
+    border-radius: 5PX;
+    justify-content:space-between ;
+    align-items: center;
+}
+/* .banner-img{
+    min-height: auto;
+    height: 100;
+    justify-content: center; */
+}
+.banner-p{
+    height: 220px;
+    width: 50%;
+    margin-top: 12px;
+}
+.banner-img{
+    display: flex;
+    height:230px ;
+    width: 70%;
+    margin-right: 12px;
+    /* justify-content:space-between ;
+    align-items: center; */
+
+}
+#bng{
+    color: #0E0E0E;
+    margin-left: 15px;
+}
+
+.Idea{
+    font-weight: bold;
+    margin-left: 15px;
+    font-size: 30px;
+}
+.Explor{
+    background-color: #006A50;
+    border-radius: 5px;
+    margin-left: 15px;
+    padding: 10px;
+}
+
+.sikll-container{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25px;
+    margin-right: 25px;
+    align-items: center;
+}
+
+.vision{
+    margin-left: 25px;
+    margin-right: 60px;
+    color: #0E0E0E;
+}
+#future{
+    color: #0E0E0E;
+}
+.sikll-digital{
+    background-color: #d5e1f5;
+    width: 410px;
+    /* height: 325px; */
+    padding: 32px;
+}
+.more{
+    background-color: #5490F5;
+    width: 120px;
+    height: 40px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+
+}
+.sikll-green{
+    background-color: #c6e4d6;
+    width: 410px;
+    padding: 32px;
+}
+
+
+
+.more-learm{
+    background-color: #09A15C;
+    width: 120px;
+    height: 40px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+}
+.sikll-modem{
+    background-color: #f7e0cd;
+    width: 410px;
+    padding: 32px;
+}
+
+
+.Learn-more{
+    background-color: #FFC239;
+    width: 120px;
+    height: 40px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+}
+
+    
+
+
+.blog-d{
+  background-image: url("../style/assets/quote-bg.png");
+  background-position: top-0,left-0;
+  background-repeat: no-repeat;
+  padding: 10px;
+  margin: 10px 40px;
+
+}
+
+.blog-d.blog-descriton{
+    padding: 0 15px;
+
+}
+.box{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.your{
+  font-weight: bold; 
+  font-size: 40px;
+  color: #0E0E0E; 
+}
+
+full-box {
+    border: 1px solid #dbdbdb;
+    padding: 32px;
+    /* margin: 10px; */
+}
+
+.question-container {
+    background-color: #c6e4d6;
+    padding: 24px;
+    border: 1px solid #dbdbdb;
+    display: flex;
+    justify-content: space-between;
+    color: #0E0E0E;
+    font-family: "Fira Sans";
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+.styled-select {
+    background-color: #c6e4d6;
+    padding: 10px 14px;
+    border: 2px solid black;
+}
+
+.box-container {
+    display: flex;
+    border: 2px solid #dbdbdb;
+    justify-content: space-between
+}
+
+.text {
+    padding: 24px;
+}
+
+.yes-noContainer {
+    border-left: 2px solid #dbdbdb;
+    padding: 24px 35px;
+}
+
+/* rakib */
+
+ /* .satellite-section  */
+/*  
+.satellite{
+    margin-left: 30px;
+    margin-right: 30px;
+} */
+
+.satellite{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+    .aims{
+        width: 1280px;
+        height: 45px;
+     
+    }
+
+.satellite-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e7e1e1;
+    border-radius: 10px;
+}
+
+.satellite-bngdu{
+   border: 1px solid;
+   border-radius: 20px;
+   margin-top: 45px;
+   margin-bottom: 45px;
+   margin-left: 48px;
+   margin-right: 40px;
+
+}
+
+``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+.Read{
+    background-color:#006A50;
+    width: 130px;
+    height: 45px;
+    border-radius: 10px;
+    color: white;
+}
+
+.satellite-section-s{
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-top: 24px;
+    background-color: #e7e1e1;
+
+}
+
+.second-image-text{
+
+    margin-top: 48px;
+    margin-left: 48px;
+
+    margin-bottom: 45px;
+}
+.satellite-section-t{
+    margin-top: 24px;
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-top: 24px;
+    background-color: #e7e1e1;
+
+}
+/* footer */
+
+
+
+/* donation */
+.rakib{
+    width: 1280px;
+    margin: 100px auto;
+    /* margin-left: 50px;
+    margin-right: 30px; */
+    text-align: center;
+    /* display: flex; */
+    /* justify-content: space-around; */
+}
+
+.abba{
+    /* border: 2px solid black; */
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+    
+    /* padding-left: 10px; */
+    /* border-radius: 10px; */
+    
+
+}
+.dano{
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    padding: 40px ;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 50px;
+    background-color: #f5f2f2;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    
+    
+}
+.dano:hover{
+    background-color: yellowgreen ;
+    
+}
+
+
+
+
+.checkbox{
+    width: 1000px;
+    margin-left: 500px;
+    margin-right: 30px;
+    /* text-align: center; */
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.two{
+    width: 720px;
+    height: 30px;
+    margin-top: 20px;
+    /* margin-left: 200px;
+    margin-right: 200px; */
+    background-color: #e7e1e1;
+    text-align: center;
+    margin-left: 150px;
+}
+.btu{
+    margin-left: 480px;
+    background-color: #006A50;
+   
+    width: 80px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+/* subscribe */
+
+.subscribe{
+    background-color: #C6E4D6;
+    height: 200px;
+    width:1000px ;
+    margin-left: 500px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 10px;
+    
+}
+
+.subscribet{
+    width: 500px;
+    padding-left: 10px;
+}
+.baton{
+    background-color: #006A50;
+    color: white;
+}
+
+.done{
+    background-color: #006A50;
+    text-align: center;
+}
+/* bangladesh */
+.bangladesh{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+}
